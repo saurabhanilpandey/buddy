@@ -1,8 +1,8 @@
 # buddy
-`buddy` is a virtual assitant software for linux-based Ubuntu. It is currently under progress and will be updated soon.
-
-## Capabilities
-It is planned to following capabilities:
+`buddy` is a voice assitant application program for debian-based Ubuntu.
+## Features
+The application will have following basic features:
 - Voice commands
 - Web access
-- auto update on permissions
+- auto update
+- 
