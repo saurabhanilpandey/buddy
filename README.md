@@ -5,4 +5,3 @@ The application will have following basic features:
 - Voice commands
 - Web access
 - auto update
-- 
